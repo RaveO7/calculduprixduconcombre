@@ -2,3 +2,4 @@ numpy
 pillow
 pytesseract
 pywin32
+opencv-python
